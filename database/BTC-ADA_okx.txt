@@ -1,0 +1,1 @@
+{"event":"error","msg":"WrongURLorchannel:books5,instId:BTC-ADAdoesn'texist.PleaseusethecorrectURL,channelandparametersreferringtoAPIdocument.","code":"60018","connId":"6064ed92"}

@@ -1,0 +1,1 @@
+{"event":"error","msg":"WrongURLorchannel:books5,instId:ETH-DOTdoesn'texist.PleaseusethecorrectURL,channelandparametersreferringtoAPIdocument.","code":"60018","connId":"ebb19dc4"}
